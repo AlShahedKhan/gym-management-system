@@ -11,7 +11,7 @@
 
 **Installation**
 **Clone the Repository:**
-    git clone https://github.com/your-repo/gym-management-system.git
+    git clone https://github.com/AlShahedKhan/gym-management-system.git
     cd gym-management-system
 
 **Install Composer Dependencies:**
